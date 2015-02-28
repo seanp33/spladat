@@ -1,0 +1,26 @@
+{
+  "name": "spladat",
+  "version": "0.0.1",
+  "description": "causality brutality",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:seanp33/spladat.git"
+  },
+  "author": "seanp33",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanp33/spladat/issues"
+  },
+  "homepage": "https://github.com/seanp33/spladat",
+  "dependencies": {
+    "proginoskes": "^0.1.8"
+  },
+  "devDependencies": {
+    "chai": "^2.0.0",   
+    "mocha": "^2.1.0"
+  }
+}
